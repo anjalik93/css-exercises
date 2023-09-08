@@ -1,0 +1,46 @@
+/* .oddelement,.three
+{
+    background-color: rgb(235, 125, 185);
+    font-family: Verdana, "Dejavu-sans", sans-serif;
+}
+
+.two
+{
+    color:blue;
+    font-size:36px;
+}
+
+.three
+{
+    font-size: 24px;
+}
+
+#four
+{
+    background-color: rgb(125, 235, 143);
+    font-size: 24px;
+    font-weight: bold;
+} */
+
+.oddelement
+{
+    background-color: rgb(235, 125, 185);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two
+{
+    color:blue;
+    font-size:36px;
+}
+
+.fontsize
+{
+    font-size: 24px;
+}
+
+#four
+{
+    background-color: rgb(125, 235, 143);
+    font-weight: bold;
+}
